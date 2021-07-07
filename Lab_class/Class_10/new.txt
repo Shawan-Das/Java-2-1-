@@ -1,0 +1,5 @@
+USA 46 38 121
+UK 27 17 67
+China 26 26 70
+Russia 19 19 56
+Germany 17 15 42
